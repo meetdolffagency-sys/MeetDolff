@@ -1,0 +1,8 @@
+{
+  "name": "MeetDolff",
+  "description": "Marketing website for MeetDolff, a local-first AI meeting companion Chrome extension with BYOK AI, encrypted local storage, and portable memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
